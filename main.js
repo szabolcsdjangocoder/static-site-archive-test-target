@@ -1,5 +1,5 @@
 var myimg = document.createElement('img');
-myimg.src = '/150.png'
+myimg.src = '/static-site-archive-test-target/150.png'
 document.getElementById('myimages').appendChild(myimg);
 
 var myrequest = new XMLHttpRequest();
